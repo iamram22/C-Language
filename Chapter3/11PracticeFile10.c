@@ -31,5 +31,3 @@ int main()
 
     return 0;
 }
-
-// add more slabs and calculate the cess as well
