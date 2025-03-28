@@ -31,4 +31,4 @@ int main()
 
     return 0;
 }
-//restart from here
+//add few more slabs as per new tex regime

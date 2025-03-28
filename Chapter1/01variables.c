@@ -3,6 +3,6 @@
 int main() {
     int a;
     a = 10;
-    printf("Hello C Programming");
+    printf("Hello C Programming\n");
     printf("%d", a);
 }
