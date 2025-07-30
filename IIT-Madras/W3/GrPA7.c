@@ -12,6 +12,8 @@
 // Output
 // 123.75
 
+
+
 #include <stdio.h>  
 int main() {  
     double weight, rate, cost;  
