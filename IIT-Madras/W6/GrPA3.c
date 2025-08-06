@@ -29,4 +29,4 @@ int main()
     scanf("%d%d%d%d%d",&a,&b,&c,&d,&e);
     second_largest(&a,&b,&c,&d,&e,&res);
     printf("%d",res);
-}
+} 
