@@ -43,4 +43,5 @@ int main()
 
 // Write a function findBooksPublishedInYear that accepts an array of Book structs, length of the array (integer), and year (integer) as parameters. The function prints the title and author of all books published in a given year in a format given in sample output . If no record is found, it prints NONE
 
+
 // Note:- If more than one book is published in the given year, then print the titles: author in increasing order of their index in the array.
