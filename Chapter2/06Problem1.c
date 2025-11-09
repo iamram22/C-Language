@@ -10,3 +10,5 @@ int main() {
 
     return 0;
 }
+
+//It is important to remember that "char" can store only single alphabet as character, for example "a" "c not "abc"

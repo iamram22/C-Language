@@ -4,7 +4,7 @@ int main() {
     // int a = 9; 
     float a = 9;
     int b = 2;
-    float c = a/b;
+    int c = a/b;
     int d = 9.9986;
     printf("The value of a/b is %f\n", c); //expected output 4, NOT 4.5 if int a = 9;
     printf("The value of a/b is %d\n", d);
